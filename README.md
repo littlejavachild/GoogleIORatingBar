@@ -11,8 +11,7 @@ To use the custom rating bar, just include the following lines in your layout fi
 ```
 <com.fasih.googleioratingbar.GoogleIORatingBar 
 	    android:layout_width="wrap_content"
-	    android:layout_height="wrap_content"
-	    />
+	    android:layout_height="wrap_content" />
 ```
 
 ## License:
