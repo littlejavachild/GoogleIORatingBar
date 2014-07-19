@@ -5,6 +5,16 @@ A custom rating bar for Android inspired by the rating bar in Google I/O 2014 of
 
 ![screenshot](http://i.imgur.com/t5JXbaP.png?1)
 
+## Usage:
+To use the custom rating bar, just include the following lines in your layout file
+
+```
+<com.fasih.googleioratingbar.GoogleIORatingBar 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    />
+```
+
 ## License:
 ```
 Copyright 2014 Fasih Khatib
