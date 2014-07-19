@@ -3,7 +3,7 @@ GoogleIORatingBar
 
 A custom rating bar for Android inspired by the rating bar in Google I/O 2014 official app
 
-License:
+## License:
 ```
 Copyright 2014 Fasih Khatib
 
